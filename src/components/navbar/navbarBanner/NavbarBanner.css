@@ -1,0 +1,7 @@
+.navbarBanner{
+    background-color: #233f3e;
+    display: flex;
+    justify-content: space-between;
+    height: 39px;
+    color: white;
+}
