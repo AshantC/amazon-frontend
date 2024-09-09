@@ -5,3 +5,33 @@
     height: 39px;
     color: white;
 }
+.navbarBannerOptionLeft{
+    display: flex;
+    margin-left: 10px;
+}
+.optionNavbarBanner{
+    display: flex;
+    padding: 8px 9px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    cursor: pointer;
+    &:hover{
+        border: 1px solid;
+        border-radius: 3px;
+    }
+}
+.allOptionNavbarBanner{
+    font-size: 14px;
+    padding-left: 5px;
+    font-weight: 400;
+}
+/* ----------------- */
+.navbarBannerRightSide{
+    &:hover{
+        border: 1px solid;
+        border-radius: 2px;
+        cursor: pointer;
+    }
+}
