@@ -42,7 +42,8 @@ const NavbarBanner = () => {
       </div>
 
       <div className="navbarBannerRightSide">
-        <img src={amazonPrime} alt="amazonPrime Logo" />
+        {/* <img src={amazonPrime} alt="amazonPrime Logo" /> */}
+        <img src="https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/SingleTitle/CallMeBae/400x39-SWM-NP._CB564709123_.jpg" alt="amazonPrime Logo" />
       </div>
     </div>
   )
