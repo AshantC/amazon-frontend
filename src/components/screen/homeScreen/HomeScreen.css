@@ -6,7 +6,6 @@
     object-fit: contain;
     background-repeat: no-repeat;
     position: relative;
-    border: 1px solid red;
 }
 .homeBannerImg{
     width: 100%;
