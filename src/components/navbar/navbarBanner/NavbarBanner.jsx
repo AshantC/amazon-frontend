@@ -2,6 +2,7 @@ import React from 'react';
 import "./NavbarBanner.css";
 import MenuIcon from '@mui/icons-material/Menu';
 import amazonPrime from "../../../assets/amazonPrimeLogo.jpg"
+import {Link } from 'react-router-dom';
 
 const NavbarBanner = () => {
   const options = [
@@ -31,9 +32,9 @@ const NavbarBanner = () => {
         {
           options.map((item, index) => {
             return (
-              <div className='optionNavbarBanner' key={index}>
+              <Link to={'/products'} className='optionNavbarBanner' key={index}>
                 <div className="allOptionNavbarBanner">{item.name}</div>
-              </div>
+              </Link>
             )
           })
         }

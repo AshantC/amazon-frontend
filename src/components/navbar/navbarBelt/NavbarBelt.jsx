@@ -6,15 +6,16 @@ import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import ArrowDropDownOutlinedIcon from '@mui/icons-material/ArrowDropDownOutlined';
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
+import { Link } from 'react-router-dom';
 
 const NavbarBelt = () => {
     return (
         <div className='navbarBelt'>
             <div className='leftNavBelt'>
-                <div className='leftNavBeltLogo'>
-                    <img src={amazonLogo} alt="amazon logo" className='amazonLogoNavbar' />
-                    <span className='navbar_inLogo'>.in</span>
-                </div>
+                <Link to={'/'} className='leftNavBeltLogo'>
+                        <img src={amazonLogo} alt="amazon logo" className='amazonLogoNavbar' />
+                        <span className='navbar_inLogo'>.in</span>
+                </Link>
 
                 <div className='leftNavBeltLocation'>
                     <div className='leftNavBeltLocationImg'>
