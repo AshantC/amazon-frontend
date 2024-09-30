@@ -69,5 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+# Requires
+## React Router
+```
+npm install react-router-dom
+```
+
+## Redux and React-redux
+```
+npm i redux
+```
+```
+npm i react-redux
+```
+
 ### Reference
 https://www.youtube.com/watch?v=zhAzfE-Z7TU

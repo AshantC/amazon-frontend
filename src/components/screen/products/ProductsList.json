@@ -1,0 +1,33 @@
+{
+    "product":[
+        {
+            "id":"1",
+            "name":"HONOR MagicBook X16 Pro 2024, 13th Gen Intel Core i5-13420H (16GB/512GB NVMe SSD, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop/Windows 11/Backlit",
+            "price":53990,
+            "quantity":1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61v6prN3QrL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":"2",
+            "name": "Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor/16GB DDR4 + 512GB SSD/Intel UHD Graphics/15 (38cm) FHD Display/Windows 11 + MSO'21/15 Month",
+            "price":52990,
+            "quantity":1,
+            "imageUrl": "https://m.media-amazon.com/images/I/81T5jRKDkvL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":"3",
+            "name": "(Refurbished) Lenovo ThinkPad 6th Gen Intel Core i5 Thin & Light HD Laptop (16GB RAM / 512GB SSD /14 inch (35.6 cm) HD/Windows 11/MS Office/WiFi/Webcam/Intel Graphics),",
+            "price":15835,
+            "quantity":1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61vGumezioL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":"4",
+            "name": "Lenovo V15 G2 15.6 inch FHD Anti-Glare Business Laptop, Intel Celeron N4500, 8GB RAM, 256 SSD, Intel UHD Graphics, HD Camera, HD Audio, Wi-Fi, Bluetooth, Windows 11, Black,",
+            "price":22990,
+            "quantity":1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71MuvuEjyAL._AC_UY327_FMwebp_QL65_.jpg"
+        }
+
+    ]
+}

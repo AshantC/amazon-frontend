@@ -9,7 +9,6 @@ const HomeScreen = () => {
     <div className='homeScreen'>
       <HomeBanner />
       <HomeDetails />
-      <Footer />
 
 
     </div>
